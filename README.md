@@ -6,6 +6,7 @@
 This project is a simplified clone of AirBnB, focusing on the backend part. It includes a command-line interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging). The goal of this project is to deploy a simple copy of the AirBnB website.
 
 ## Components
+blablabla
 
 ### 1. BaseModel
 
